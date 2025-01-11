@@ -1,0 +1,4 @@
+Start= 1
+Start=5
+For i in range (start ,end +1):
+Print (i,end= ' ')
